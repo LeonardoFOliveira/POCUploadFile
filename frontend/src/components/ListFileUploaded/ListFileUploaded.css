@@ -1,0 +1,12 @@
+.borda {
+    border-bottom: 1px solid #ddd;
+}
+
+.linha:hover {
+    background-color: #282c34;
+}
+
+.fundo {
+    margin-top: 10px;
+    background-color: grey;
+}

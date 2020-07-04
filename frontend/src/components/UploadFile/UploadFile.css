@@ -1,0 +1,12 @@
+.uploadContent {
+    background-color: grey;
+    border-radius: 4px;
+}
+
+.dropzone {
+    border: 1px dashed #282c34;
+}
+
+.dragActive {
+    border-color: blue;
+}
